@@ -1,4 +1,4 @@
-# NATS &amp; NATS Streaming - Object Pascal Client
+# NATS (NATS Streaming) - Object Pascal Client
 
 An Object Pascal client for the NATS messaging system.
 
